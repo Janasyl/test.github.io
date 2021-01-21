@@ -12,3 +12,7 @@ let answer3 = prompt('Какие из перечисленных ниже уст
 if (answer3 == 'клавиатура') {
 	results = results + 5;
 }
+let answer4 = prompt('Обработку данных производит:')
+if (answer4 == 'процессор') {
+	results = results + 5;
+}
