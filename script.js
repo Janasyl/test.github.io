@@ -24,3 +24,7 @@ let answer6 = prompt('Для просмотра содержимого файл�
 if (answer6 == 'Проводник') {
 	results = results + 10;
 }
+let answer6 = prompt('Ваш балл')
+if (answer6 == 'Балл') {
+	results = results * 10;
+}
