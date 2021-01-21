@@ -16,3 +16,7 @@ let answer4 = prompt('Обработку данных производит:')
 if (answer4 == 'процессор') {
 	results = results + 5;
 }
+let answer5 = prompt('Какое из устройств наиболее отрицательно влияет на здоровье человека')
+if (answer5 == 'дисплей') {
+	results = results + 5;
+}
